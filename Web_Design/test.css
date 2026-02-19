@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+h1, h2{
+    color: rgb(105, 0, 218);
+}
+p{
+    color: darkorange;
+}

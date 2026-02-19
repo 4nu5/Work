@@ -1,0 +1,15 @@
+<!Doctype html>
+<html>
+<head></head>
+<body>
+<div><h1>Trillium Media Design </h1></div>
+<div><u>Home</u>
+<u>Services</u> 
+<u>Contact</u></div>
+<div><h2>New Media and Web Design</h2>
+<p>Trillium Media Design will bring your company web presence to the next level.</p></div>
+<div><h2> Meeting your Business Needs<h2>
+<p>Our expert designers are creative and eager to work with you</p></div>
+<div> <h6>copyright &copy;2026 TrilliumDesign</h6></div>
+</body>
+</html>
