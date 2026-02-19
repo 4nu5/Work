@@ -12,7 +12,7 @@ public class Delivery {
          System.out.println(" 3. More Than 10km             |   RM 2.00 per km");
          System.out.println("===============================|==================");
 
-         System.out.printf("Please Enter The distance from your house to the shop");
+         System.out.printf("Please Enter The distance from your house to the shop: ");
          distance = sc.nextDouble();
 
          if (distance < 5)       //DISTANCE CALCULATIONS

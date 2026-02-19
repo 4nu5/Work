@@ -9,7 +9,7 @@ public class PreMadeFlower {
         double flowerStand = 178.00;
         double flowerBouquet = 228.00;
         double graduationBoquetMini = 58.00;
-        double graduationBoquetFlower = 128.00;
+        double graduationBoquetFlower = 128.00;             //INITIALIZATION
         double graduationBoquetToy = 188.00;
         double weddingBouquetMini = 68.00;
         double weddingBouquet = 168.00;
